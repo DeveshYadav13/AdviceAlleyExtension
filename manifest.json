@@ -1,0 +1,13 @@
+{
+    "name": "Advice Alley",
+    "version": "0.0.1",
+    "manifest_version" : 3,
+    "action":{
+        "default_popup": "popup.html",
+        "default_icon": "logo32.png"
+    },
+    "icons":{
+        "32":"logo32.png"
+    },
+    "permissions":["activeTab"]
+}
