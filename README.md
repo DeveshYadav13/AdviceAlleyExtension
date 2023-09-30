@@ -34,6 +34,10 @@ Advice Alley is a Chrome extension that provides users with random pieces of adv
 
 The extension's properties are configured in the `manifest.json` file, allowing you to customize the extension's name, version, HTML file, and icons.
 
+## Contributing
+
+I welcome contributions to enhance the Advice Alley chrome extension. Feel free to open issues or submit pull requests.
+
 ## Credits
 
 Created with ❤️ by [Devesh Yadav](https://github.com/DeveshYadav13).
